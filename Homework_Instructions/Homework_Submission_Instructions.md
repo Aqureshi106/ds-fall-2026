@@ -33,7 +33,7 @@ This is a coding assignment that you usually start in class. It is located in th
 #### Instructions
 
 1. **Make a copy** of `Exercise-DONT-EDIT-MAKE-COPY.ipynb`.
-   - Do **not** edit or submit the original template.Work only on your copy.
+   - Do **not** edit or submit the original template. Work only on your copy.
 2. **Rename your copy** using a unique filename that identifies you and the week.
    - Your filename must include your full name, CUNY/student ID, or another stable unique identifier. **Do not use initials alone.**
    - Good examples:
